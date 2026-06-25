@@ -2,12 +2,11 @@
 
 End-to-end **Lakehouse data engineering** project on Databricks: ingesting a raw supply-chain
 dataset, modeling it into a governed **star schema** with **SCD Type 2**, and serving a
-**5-page interactive Power BI dashboard** that surfaces delivery and profitability problems.
+**5-page Power BI dashboard** that surfaces delivery and profitability problems.
 
 **Tech stack:** Databricks · PySpark · Delta Lake · Unity Catalog · Power BI
 
-<!-- Optional: replace with your published Power BI link -->
-> 🔗 **[View the live interactive dashboard](#)** &nbsp;|&nbsp; 📊 5 pages &nbsp;|&nbsp; 🗄️ 180K+ records
+> 📊 **[Download the Power BI dashboard (.pbix)](dashboard/supply_chain.pbix)** &nbsp;|&nbsp; 5 pages &nbsp;|&nbsp; 🗄️ 180K+ records
 
 ---
 
